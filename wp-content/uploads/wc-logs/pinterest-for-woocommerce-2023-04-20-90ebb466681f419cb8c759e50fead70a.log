@@ -1,0 +1,39 @@
+2023-04-20T09:56:30+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+2023-04-20T09:56:31+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10005 milliseconds with 0 out of 0 bytes received
+2023-04-20T09:57:50+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10010 milliseconds with 0 out of 0 bytes received
+2023-04-20T09:58:02+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+2023-04-20T10:33:18+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+2023-04-20T10:33:30+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10010 milliseconds with 0 out of 0 bytes received
+2023-04-20T10:35:01+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10012 milliseconds with 0 out of 0 bytes received
+2023-04-20T10:35:13+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+2023-04-20T12:00:33+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10015 milliseconds with 0 out of 0 bytes received
+2023-04-20T12:00:38+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received
+2023-04-20T12:00:40+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10006 milliseconds with 0 out of 0 bytes received
+2023-04-20T12:00:41+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received
+2023-04-20T12:00:43+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Operation timed out after 10006 milliseconds with 0 out of 0 bytes received

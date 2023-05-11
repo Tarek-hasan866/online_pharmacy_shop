@@ -1,0 +1,17 @@
+.control-section-online-pharmacy h3.accordion-section-title {
+    background: #0cb8b6 !important;
+    color: #fff !important;
+}
+a.button.button-secondary.alignright{
+    background: #ffffff;
+    color: #444444 !important;
+}
+a.button.button-secondary.alignright {
+    margin-right: -2px;
+    margin-top: -6px;
+    padding: 0 6px !important;
+}
+actions {
+    margin-top: 4em !important;
+    margin-bottom: 3em !important;
+}

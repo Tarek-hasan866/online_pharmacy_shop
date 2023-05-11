@@ -1,0 +1,7 @@
+.largefont, .largefont p{font-size:16px;}
+.skt-sandwich-notice-container{width:100%; padding:15px 0 15px 0;}
+.skt-sandwich-notice-img{float:left; text-align:left; width:13%;}
+.skt-sandwich-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.skt-sandwich-notice-heading{font-size:20px; font-weight:600;}
+.skt-sandwich-clear{clear:both;}
+.wp-block{max-width: 1210px !important;}
